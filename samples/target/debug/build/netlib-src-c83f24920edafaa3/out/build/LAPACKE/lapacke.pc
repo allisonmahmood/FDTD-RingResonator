@@ -1,0 +1,10 @@
+libdir=/Users/macbookpro2017-allisonm./Documents/FDTD-RingResonator/samples/target/debug/build/netlib-src-c83f24920edafaa3/out/lib
+includedir=/Users/macbookpro2017-allisonm./Documents/FDTD-RingResonator/samples/target/debug/build/netlib-src-c83f24920edafaa3/out/include
+
+Name: LAPACKE
+Description: C Standard Interface to LAPACK Linear Algebra PACKage
+Version: 3.9.0
+URL: http://www.netlib.org/lapack/#_standard_c_language_apis_for_lapack
+Libs: -L${libdir} -llapacke
+Cflags: -I${includedir}
+Requires.private: lapack

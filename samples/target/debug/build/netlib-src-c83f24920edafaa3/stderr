@@ -1,0 +1,98 @@
+CMake Deprecation Warning at /Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/INSTALL/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at /Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/INSTALL/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at /Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/INSTALL/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at /Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/INSTALL/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at /Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/INSTALL/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+ld: warning: object file (CMakeFiles/cblas.dir/sdotsub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/sdsdotsub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/snrm2sub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/isamaxsub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/sasumsub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/scasumsub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/scnrm2sub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/dsdotsub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/ddotsub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/dnrm2sub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/dasumsub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/idamaxsub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/cdotcsub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/cdotusub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/icamaxsub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/zdotcsub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/zdotusub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/dzasumsub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/dznrm2sub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: object file (CMakeFiles/cblas.dir/izamaxsub.f.o) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: dylib (../../lib/libblas.3.9.0.dylib) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: dylib (/usr/local/Cellar/gcc/12.2.0/lib/gcc/current/libquadmath.dylib) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: dylib (/usr/local/Cellar/gcc/12.2.0/lib/gcc/current/libgfortran.dylib) was built for newer macOS version (13.0) than being linked (11.3)
+/Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/LAPACKE/src/lapacke_cgesvdq.c:69:34: warning: incompatible pointer types passing 'double *' to parameter of type 'float *' [-Wincompatible-pointer-types]
+                                 &rwork_query, lrwork );
+                                 ^~~~~~~~~~~~
+/Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/LAPACKE/include/lapacke.h:5778:40: note: passing argument to parameter 'rwork' here
+                                float* rwork, lapack_int lrwork);
+                                       ^
+/Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/LAPACKE/src/lapacke_cgesvdq.c:95:64: warning: incompatible pointer types passing 'double *' to parameter of type 'float *' [-Wincompatible-pointer-types]
+                                 iwork, liwork, cwork, lcwork, rwork, lrwork );
+                                                               ^~~~~
+/Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/LAPACKE/include/lapacke.h:5778:40: note: passing argument to parameter 'rwork' here
+                                float* rwork, lapack_int lrwork);
+                                       ^
+2 warnings generated.
+/Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/LAPACKE/src/lapacke_zgesvdq_work.c:49:49: warning: incompatible pointer types passing '_Complex double *' to parameter of type '_Complex float *' [-Wincompatible-pointer-types]
+                       numrank, iwork, &liwork, cwork, &lcwork, rwork, &lrwork, &info );
+                                                ^~~~~
+/Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/LAPACKE/include/lapack.h:2484:27: note: passing argument to parameter 'cwork' here
+    lapack_complex_float* cwork, lapack_int* lcwork,
+                          ^
+/Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/LAPACKE/src/lapacke_zgesvdq_work.c:86:30: warning: incompatible pointer types passing '_Complex double *' to parameter of type '_Complex float *' [-Wincompatible-pointer-types]
+                             cwork, &lcwork, rwork, &lrwork, &info );
+                             ^~~~~
+/Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/LAPACKE/include/lapack.h:2484:27: note: passing argument to parameter 'cwork' here
+    lapack_complex_float* cwork, lapack_int* lcwork,
+                          ^
+/Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/LAPACKE/src/lapacke_zgesvdq_work.c:116:30: warning: incompatible pointer types passing '_Complex double *' to parameter of type '_Complex float *' [-Wincompatible-pointer-types]
+                             cwork, &lcwork, rwork, &lrwork, &info );
+                             ^~~~~
+/Users/macbookpro2017-allisonm./.cargo/registry/src/github.com-1ecc6299db9ec823/netlib-src-0.8.0/source/LAPACKE/include/lapack.h:2484:27: note: passing argument to parameter 'cwork' here
+    lapack_complex_float* cwork, lapack_int* lcwork,
+                          ^
+3 warnings generated.
+ld: warning: dylib (../lib/libtmglib.dylib) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: dylib (../lib/liblapack.3.9.0.dylib) was built for newer macOS version (13.0) than being linked (11.3)
+ld: warning: dylib (../lib/libblas.3.9.0.dylib) was built for newer macOS version (13.0) than being linked (11.3)

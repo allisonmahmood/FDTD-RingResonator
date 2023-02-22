@@ -1,0 +1,1 @@
+/usr/local/bin/gfortran  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk CMakeFiles/secondtst_EXT_ETIME.dir/second_EXT_ETIME.f.o CMakeFiles/secondtst_EXT_ETIME.dir/secondtst.f.o -o secondtst_EXT_ETIME 

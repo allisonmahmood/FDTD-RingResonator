@@ -1,0 +1,17 @@
+Performing C SOURCE FILE Test C_SUPPORTS_DOLLAR succeeded with the following output:
+Change Dir: /Users/macbookpro2017-allisonm./Documents/FDTD-RingResonator/samples/target/debug/build/netlib-src-c83f24920edafaa3/out/build/CMakeFiles/FortranCInterface/VerifyC/CMakeFiles/FortranCInterface/CMakeFiles/CMakeScratch/TryCompile-vks6o8
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_10ca7/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_10ca7.dir/build.make CMakeFiles/cmTC_10ca7.dir/build
+Building C object CMakeFiles/cmTC_10ca7.dir/src.c.o
+/usr/bin/cc -DC_SUPPORTS_DOLLAR  -ffunction-sections -fdata-sections -fPIC -m64 -arch x86_64  -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -MD -MT CMakeFiles/cmTC_10ca7.dir/src.c.o -MF CMakeFiles/cmTC_10ca7.dir/src.c.o.d -o CMakeFiles/cmTC_10ca7.dir/src.c.o -c /Users/macbookpro2017-allisonm./Documents/FDTD-RingResonator/samples/target/debug/build/netlib-src-c83f24920edafaa3/out/build/CMakeFiles/FortranCInterface/VerifyC/CMakeFiles/FortranCInterface/CMakeFiles/CMakeScratch/TryCompile-vks6o8/src.c
+Linking C executable cmTC_10ca7
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/cmTC_10ca7.dir/link.txt --verbose=1
+/usr/bin/cc  -ffunction-sections -fdata-sections -fPIC -m64 -arch x86_64  -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_10ca7.dir/src.c.o -o cmTC_10ca7 
+
+
+Source file was:
+
+extern int dollar$(void);
+int main() { return 0; }
+
+

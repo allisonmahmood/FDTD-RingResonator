@@ -1,0 +1,34 @@
+Fortran EXT_ETIME does not exist. 
+ Change Dir: /Users/macbookpro2017-allisonm./Documents/FDTD-RingResonator/samples/target/debug/build/netlib-src-c83f24920edafaa3/out/build/INSTALL
+
+Run Build Command(s):/usr/bin/make -f Makefile secondtst_EXT_ETIME && [ 33%] Building Fortran object CMakeFiles/secondtst_EXT_ETIME.dir/second_EXT_ETIME.f.o
+[ 66%] Building Fortran object CMakeFiles/secondtst_EXT_ETIME.dir/secondtst.f.o
+[100%] Linking Fortran executable secondtst_EXT_ETIME
+Undefined symbols for architecture x86_64:
+  "_etime_", referenced from:
+      _second_ in second_EXT_ETIME.f.o
+ld: symbol(s) not found for architecture x86_64
+collect2: error: ld returned 1 exit status
+make[3]: *** [secondtst_EXT_ETIME] Error 1
+make[2]: *** [CMakeFiles/secondtst_EXT_ETIME.dir/all] Error 2
+make[1]: *** [CMakeFiles/secondtst_EXT_ETIME.dir/rule] Error 2
+make: *** [secondtst_EXT_ETIME] Error 2
+
+ 
+Fortran EXT_ETIME_ does not exist. 
+ Change Dir: /Users/macbookpro2017-allisonm./Documents/FDTD-RingResonator/samples/target/debug/build/netlib-src-c83f24920edafaa3/out/build/INSTALL
+
+Run Build Command(s):/usr/bin/make -f Makefile secondtst_EXT_ETIME_ && [ 33%] Building Fortran object CMakeFiles/secondtst_EXT_ETIME_.dir/second_EXT_ETIME_.f.o
+[ 66%] Building Fortran object CMakeFiles/secondtst_EXT_ETIME_.dir/secondtst.f.o
+[100%] Linking Fortran executable secondtst_EXT_ETIME_
+Undefined symbols for architecture x86_64:
+  "_etime__", referenced from:
+      _second_ in second_EXT_ETIME_.f.o
+ld: symbol(s) not found for architecture x86_64
+collect2: error: ld returned 1 exit status
+make[3]: *** [secondtst_EXT_ETIME_] Error 1
+make[2]: *** [CMakeFiles/secondtst_EXT_ETIME_.dir/all] Error 2
+make[1]: *** [CMakeFiles/secondtst_EXT_ETIME_.dir/rule] Error 2
+make: *** [secondtst_EXT_ETIME_] Error 2
+
+ 

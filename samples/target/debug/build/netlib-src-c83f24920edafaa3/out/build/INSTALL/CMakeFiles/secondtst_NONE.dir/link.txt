@@ -1,0 +1,1 @@
+/usr/local/bin/gfortran  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk CMakeFiles/secondtst_NONE.dir/second_NONE.f.o CMakeFiles/secondtst_NONE.dir/secondtst.f.o -o secondtst_NONE 

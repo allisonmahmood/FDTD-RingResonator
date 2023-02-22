@@ -1,0 +1,8 @@
+libdir=/Users/macbookpro2017-allisonm./Documents/FDTD-RingResonator/samples/target/debug/build/netlib-src-c83f24920edafaa3/out/lib
+includedir=/Users/macbookpro2017-allisonm./Documents/FDTD-RingResonator/samples/target/debug/build/netlib-src-c83f24920edafaa3/out/include
+
+Name: BLAS
+Description: FORTRAN reference implementation of BLAS Basic Linear Algebra Subprograms
+Version: 3.9.0
+URL: http://www.netlib.org/blas/
+Libs: -L${libdir} -lblas
